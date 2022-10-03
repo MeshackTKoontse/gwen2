@@ -1,5 +1,7 @@
-# DEmo 2
+# DEMO 2
 
-lorem
+Watch a tutorial on youtube
 
-## some detext
+## step 2
+
+Open index.html on browser
